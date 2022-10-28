@@ -10,6 +10,10 @@ public class Main {
         book1.bookAuthor.show();
         book1.bookTitle.show();
         book1.bookContent.show();
+
+        //Бонусний функціонал
+
+        Book.showAll(book1);
     }
 
 }

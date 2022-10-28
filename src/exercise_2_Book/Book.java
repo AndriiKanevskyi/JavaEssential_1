@@ -16,4 +16,14 @@ public class Book {
     Author bookAuthor = new Author();
     Content bookContent = new Content();
 
+
+    //Бонусний метод классу Book який буде виводити всі данні о книзі одразу :
+
+    public static void showAll(Book book){
+
+        System.out.println("\nПраця додаткового методу классу Book\n");
+        String result = "Автор книги :"+book.bookAuthor.author +"\n"+"Назва книги :"+book.bookTitle.title+"\n"+"Зміст книги :"+book.bookContent.content;
+        System.out.println(result);
+    }
+
 }
