@@ -7,5 +7,5 @@ public class Computer {
         this.computerName = computerName ;
     }
 
-    //Тут прихований дефолтний конструктов
+
 }
