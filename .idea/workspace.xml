@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf021bf6-8fb8-40d2-a689-02f9902a19e9" name="Changes" comment="JavaEssential_1/lesson 1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaEssential_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_3_Computer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_3_Computer/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_3_Computer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_3_Computer/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +37,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/andrii.kanevski/IdeaProjects/JavaEssential_2"
+    "last_opened_file_path": "C:/Users/andrii.kanevski/IdeaProjects/JavaEssential_1"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.exercise_2_Book.Main">
+  <component name="RunManager" selected="Application.exercise_3_Computer.Main">
     <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise_2_Book.Book" />
       <module name="JavaEssential_1" />
@@ -112,9 +108,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise_3_Computer.Main" />
         <item itemvalue="Application.exercise_2_Book.Main" />
         <item itemvalue="Application.exercise_4_Address.Main" />
-        <item itemvalue="Application.exercise_3_Computer.Main" />
         <item itemvalue="Application.Book" />
         <item itemvalue="Application.Main" />
       </list>
@@ -157,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666988550788</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="JavaEssential_1/lesson 1">
+      <created>1666989299979</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666989299979</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
